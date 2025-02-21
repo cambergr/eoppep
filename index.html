@@ -1,9 +1,34 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My GitHub Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Απαντήσεις θεμάτων ΕΟΠΠΕΠ</title>
 </head>
 <body>
-    <h1>Welcome to My GitHub Page!</h1>
+    <h1>Απαντήσεις στα θέματα εξετάσεων ΕΟΠΠΕΠ για την ειδικότητα Τεχνικός Εφαρμογών Πληροφορικής (Πολυμέσα / Web Designer - Developer / Video Games)</h1>
+    <h2>Διαθέσιμα αρχεία:</h2>
+    <ul id="file-list">Εύρεση...</ul>
+
+    <script>
+        const repoName = "cambergr/eoppep";
+        fetch(`https://api.github.com/repos/${repoName}/contents`)
+        .then(response => response.json())
+        .then(data => {
+            let fileList = document.getElementById("file-list");
+            fileList.innerHTML = "";
+            data.forEach(file => {
+                if (file.type === "file") {
+                    let li = document.createElement("li");
+                    let a = document.createElement("a");
+                    a.href = file.name;
+                    a.textContent = file.name;
+                    li.appendChild(a);
+                    fileList.appendChild(li);
+                }
+            });
+        })
+        .catch(error => console.error("Error fetching file list:", error));
+    </script>
 </body>
 </html>
