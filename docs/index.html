@@ -14,14 +14,14 @@
     <ul id="file-list">Εύρεση...</ul>
 
     <script>
-        const repoName = "cambergr/eoppep";
+        const repoName = "cambergr/eoppep/docs";
         fetch(`https://api.github.com/repos/${repoName}/contents`)
             .then(response => response.json())
             .then(data => {
                 let fileList = document.getElementById("file-list");
                 fileList.innerHTML = "";
                 data.forEach(file => {
-                    if (file.type === "file" && file.name !== "README.md") {
+                    if (file.type === "file") {
                         let li = document.createElement("li");
                         let a = document.createElement("a");
                         a.href = file.name;
