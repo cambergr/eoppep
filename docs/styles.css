@@ -29,20 +29,24 @@ hr {
     width: 30%;
 }
 
-li {
+#old-specialties {
+    color: blue;
+}
+
+#file-list li {
     font-size: 18px;
     padding: 5px;
 }
 
-li a:link {
+#file-list li a:link {
     color: blue;
 }
 
-li a:visited {
+#file-list li a:visited {
     color: blue;
 }
 
-li a:hover {
+#file-list li a:hover {
     color: darkorange;
 }
 
