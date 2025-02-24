@@ -4,7 +4,9 @@
 # Τεχνικός Εφαρμογών Πληροφορικής
 **(Πολυμέσα / Web Designer - Developer / Video Games)**
 <div align="center" style="list-style: none;">
+<summary>
       <h1>Hello, world!</h1>
+      </summary>
 </div>
 
 Όλες οι απαντήσεις στα θέματα του ΕΟΠΠΕΠ για να περάσετε με επιτυχία τις εξετάσεις πιστοποίησης.
