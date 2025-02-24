@@ -3,12 +3,8 @@
 **για την ειδικότητα**
 # Τεχνικός Εφαρμογών Πληροφορικής
 **(Πολυμέσα / Web Designer - Developer / Video Games)**
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
+<div align="center" style="list-style: none;">
       <h1>Hello, world!</h1>
-    </summary>
-  </ul>
 </div>
 
 Όλες οι απαντήσεις στα θέματα του ΕΟΠΠΕΠ για να περάσετε με επιτυχία τις εξετάσεις πιστοποίησης.
