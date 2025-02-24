@@ -1,20 +1,9 @@
-<div>
-h1 {
-    color: blue;
-    text-align: center;
-}
-hr {
-    width: 30%;
-}
-li {
-    color: blue;
-}
-</div>
 
 # Απαντήσεις στα θέματα εξετάσεων ΕΟΠΠΕΠ
 ## για την ειδικότητα
-<h1 style="color:blue; text-align:center">Τεχνικός Εφαρμογών Πληροφορικής</h1>
+
 ## (Πολυμέσα / Web Designer - Developer / Video Games)
+<h1 style="color:blue; text-align:center">Τεχνικός Εφαρμογών Πληροφορικής</h1>
 <hr>
 Όλες οι απαντήσεις στα θέματα του ΕΟΠΠΕΠ για να περάσετε με επιτυχία τις εξετάσεις πιστοποίησης.
 
