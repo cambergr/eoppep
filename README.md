@@ -1,4 +1,5 @@
-<style>
+(setq markdown-xhtml-header-content
+"<style type='text/css'>
     h1 {
         color: blue;
         text-align: center;
@@ -9,7 +10,7 @@
     li {
         color: blue;
     }
-</style>
+</style>")
 
 # Απαντήσεις στα θέματα εξετάσεων ΕΟΠΠΕΠ
 ## για την ειδικότητα
