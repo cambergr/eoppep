@@ -1,12 +1,15 @@
 
-# Απαντήσεις στα θέματα εξετάσεων ΕΟΠΠΕΠ
-**για την ειδικότητα**
-# Τεχνικός Εφαρμογών Πληροφορικής
-**(Πολυμέσα / Web Designer - Developer / Video Games)**
-<div align="center" style="list-style: none;">
-<summary>
-      <h1>Hello, world!</h1>
-      </summary>
+<div id="user-content-toc">
+    <ul align="center" style="list-style: none;">
+        <summary>
+            <h1>Απαντήσεις στα θέματα εξετάσεων ΕΟΠΠΕΠ</h1>
+            <h2>για την ειδικότητα</h2>
+            <h1>Τεχνικός Εφαρμογών Πληροφορικής</h1>
+        </summary>
+    </ul>
+        <ul>
+        <h2>(Πολυμέσα / Web Designer - Developer / Video Games)</h2>
+    </ul>
 </div>
 
 Όλες οι απαντήσεις στα θέματα του ΕΟΠΠΕΠ για να περάσετε με επιτυχία τις εξετάσεις πιστοποίησης.
