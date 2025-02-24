@@ -1,16 +1,14 @@
 <div>
-<style>
-    h1 {
-        color: blue;
-        text-align: center;
-    }
-    hr {
-        width: 30%;
-    }
-    li {
-        color: blue;
-    }
-    </style>
+h1 {
+    color: blue;
+    text-align: center;
+}
+hr {
+    width: 30%;
+}
+li {
+    color: blue;
+}
 </div>
 
 # Απαντήσεις στα θέματα εξετάσεων ΕΟΠΠΕΠ
