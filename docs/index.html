@@ -45,7 +45,7 @@
                         fileList.innerHTML = "";
                         data.forEach(file => {
                             if (file.type === "file" && file.name !== "README.md" && file.name !== ".gitignore" 
-                                && file.name !== "google5339d4d2ad828857.html") {
+                                && file.name !== "google5339d4d2ad828857.html" && file.name !== orders-eol.txt) {
                                 let li = document.createElement("li");
                                 let a = document.createElement("a");
                                 a.href = file.name;
